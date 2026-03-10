@@ -1,0 +1,4 @@
+Section Report
+
+ -- LEGAL_PROCEEDINGS--
+legal proceedings 17 item 4. mine safety disclosures 17 part ii item 5. market for registrant’s common equity, related stockholder matters and issuer purchases of equity securities 18 item 6. [reserved] 19 item 7. management’s discussion and analysis of financial condition and results of operations {"litigation_detected": true, "litigation_count": 1}
