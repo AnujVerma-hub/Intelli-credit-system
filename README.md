@@ -13,11 +13,11 @@ Financial institutions rely heavily on manual analysis of lengthy annual reports
 
 This process is:
 
- *Time-consuming
+ - Time-consuming
 
- *Difficult to scale
+ - Difficult to scale
 
- *Prone to missing key risk indicators
+- Prone to missing key risk indicators
 
 There is a need for an automated system that can extract financial signals, analyze risk indicators, and generate a clear credit risk report.
 
@@ -28,17 +28,17 @@ There is a need for an automated system that can extract financial signals, anal
 
 IntelliCredit automates the credit analysis pipeline:
 
--Extract text from company annual reports
+- Extract text from company annual reports
 
--Detect financial signals such as revenue growth, profit margin, debt ratio, and legal risks
+- Detect financial signals such as revenue growth, profit margin, debt ratio, and legal risks
 
--Integrate external risk indicators (news signals)
+- Integrate external risk indicators (news signals)
 
--Compute a credit risk score
+- Compute a credit risk score
 
--Generate an AI-assisted credit risk explanation
+- Generate an AI-assisted credit risk explanation
 
--Produce a structured Credit Risk Assessment Report
+- Produce a structured Credit Risk Assessment Report
 
 ## Demo
 
@@ -62,38 +62,38 @@ The system automatically analyzes a company annual report, extracts financial si
 
 ### Tech Stack:
 
--Python
+- Python
 
--PDF Text Extraction
+- PDF Text Extraction
 
--Rule-Based Financial Signal Extraction
+- Rule-Based Financial Signal Extraction
 
--Risk Scoring Engine
+- Risk Scoring Engine
 
--ReportLab (PDF Generation)
+- ReportLab (PDF Generation)
 
 
 ### Real World Application:
 
--Banks and lending institutions
+- Banks and lending institutions
 
--Financial analysts
+- Financial analysts
 
--Credit rating teams
+- Credit rating teams
 
--Risk monitoring platforms
+- Risk monitoring platforms
 
 ### Future Improvements:
 
--NLP-based financial data extraction
+- NLP-based financial data extraction
 
--Real-time news sentiment analysis
+- Real-time news sentiment analysis
 
--Machine learning credit risk models
+- Machine learning credit risk models
 
--Integration with financial APIs and databases
+- Integration with financial APIs and databases
 
--Dashboard for interactive risk monitoring
+- Dashboard for interactive risk monitoring
 
 ### Quick start:
 ```
