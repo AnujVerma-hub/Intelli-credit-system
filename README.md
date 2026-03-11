@@ -1,4 +1,4 @@
-#IntelliCredit-AI Powered Credit Risk Assessment System
+# IntelliCredit — AI Powered Credit Risk Assessment System
 
 ## Overview
 IntelliCredit is an AI-assisted credit risk assessment prototype that analyzes company annual reports and external risk signals to generate an automated credit risk evaluation report.
@@ -13,11 +13,11 @@ Financial institutions rely heavily on manual analysis of lengthy annual reports
 
 This process is:
 
- -Time-consuming
+ *Time-consuming
 
- -Difficult to scale
+ *Difficult to scale
 
- -Prone to missing key risk indicators
+ *Prone to missing key risk indicators
 
 There is a need for an automated system that can extract financial signals, analyze risk indicators, and generate a clear credit risk report.
 
